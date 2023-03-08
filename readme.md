@@ -5,3 +5,5 @@ I'm Marco Carlos Francisco, a 4th Year student in BS Management Information Syst
 Furthermore, I have had the privilege of entering the professional setting through the two internships that I have taken in startup companies. One of these internships was at <a href="https://www.abakadastudios.com/">Abakada Studios</a> where I worked as a Web Development Intern, handling the creation of web pages for the use of building effective educational systems for the company's clients. My 2nd internship was at <a href="https://www.algar.com.ph/">ALGAR Information Systems</a> where I worked as a Software Engineering Intern, wherein I was trained in the use of Azure Dev Ops, .NET, and Xamarin in creating a mobile version of their existing finance system. Through these experiences, I have further exposed myself to the discipline of the working environment and the soft skills needed to navigate through this. I hope to experience more things in the future to further advance myself as a developer!
 
 Check out my portfolio <a href="https://marco-francisco.netlify.app/" target="_blank">here</a> 
+<br>
+Check our my resume <a href="Francisco, Resume.pdf">here</a>
