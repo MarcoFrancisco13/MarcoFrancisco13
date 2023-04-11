@@ -6,6 +6,6 @@ Furthermore, I have had the privilege of entering the professional setting throu
 
 Check out my portfolio <a href="https://marco-francisco.netlify.app/" target="_blank">here</a> 
 <br>
-Check our my resume <a href="Francisco, Resume.pdf" target="_blank">here</a>
+Check out my resume <a href="Francisco, Resume.pdf" target="_blank">here</a>
 <br>
 Feel free to contact me in my <a href="https://www.linkedin.com/in/marco-francisco-5aa8ab1a1/" target="_blank">Linkedin</a>
